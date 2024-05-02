@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\bin\Debug\KG_LAB_III.exe.config
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\bin\Debug\KG_LAB_III.exe
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\bin\Debug\KG_LAB_III.pdb
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.Form1.resources
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.exe
+C:\Users\Дмитрий\Documents\stud\KG\KG_LAB_III\KG_LAB_III\obj\Debug\KG_LAB_III.pdb
